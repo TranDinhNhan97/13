@@ -1,3 +1,1 @@
-# 13
-
-AE add file vô đây cho dễ quản lý
+# 13. Bài của Nhân
